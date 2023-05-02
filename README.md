@@ -11,7 +11,7 @@ environment variable for the path to the script.
 Copy the file to your project directory and run the command `.\ugit.bat "Commit",branch` in the command prompt. branch
 parameter is optional, if not entered, the default branch will be set to **main**.
 
-Alternatively, you can copy the file to the `c:\windows\system32` directory and run the ugit command in the command
+Alternatively, you can copy the file to the `c:\windows\system32` directory and run the `ugit.bat "Commit"` command in the command
 prompt.
 
 Note: If you choose the second method, please be aware that copying files to the system32 directory can be risky and may
